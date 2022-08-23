@@ -1,0 +1,3 @@
+[submodule "app/UI_demo"]
+	path = app/UI_demo
+	url = ssh://psychedel.gcloud%40gmail.com@anvil.works:2222/JOTPEBGJMVWZGDDA.git
