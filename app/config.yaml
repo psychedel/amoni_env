@@ -3,4 +3,6 @@ auto-migrate: true
 client-uplink-key: client-uplink-key
 data-dir: /anvil_data
 database: jdbc:postgresql://db/anvil?username=anvil&password=anvil
+dep_id:
+  C6ZZPAPN4YYF5NVJ: anvil_extras
 uplink-key: uplink-key
