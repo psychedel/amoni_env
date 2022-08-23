@@ -1,6 +1,6 @@
-app: /app/hello_world
+app: /app/UI_demo
+auto-migrate: true
+client-uplink-key: client-uplink-key
 data-dir: /anvil_data
 database: jdbc:postgresql://db/anvil?username=anvil&password=anvil
 uplink-key: uplink-key
-client-uplink-key: client-uplink-key
-auto-migrate: true
