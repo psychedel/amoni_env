@@ -1,0 +1,16 @@
+allow_embedding: false
+package_name: Hello_World
+startup: { type: form, module: Startup }
+name: Hello World
+startup_form: null
+runtime_options:
+  {
+    version: 2,
+    client_version: "3",
+    server_version: python3-full,
+    server_spec: null,
+  }
+services:
+  - source: /runtime/services/tables.yml
+    client_config: {}
+    server_config: {}
